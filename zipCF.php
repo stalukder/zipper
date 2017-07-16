@@ -1,5 +1,4 @@
 <?php
-//sajib
 
 /**
  * zipCF - Create Zip File with directory content
